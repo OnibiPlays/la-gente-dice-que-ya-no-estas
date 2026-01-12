@@ -1,1 +1,1 @@
-# la-gente-dice-que-ya-no-estas
+Repositorio para esritos interactivos.
